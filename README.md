@@ -70,4 +70,4 @@ This project use the most popular approach of the Cross-Industry Standard Proces
 6.Communication/Deployment
 
 ## Model efficiency
-Overal efficiency is ~70%
+Overall accuracy of prediction is ~70%
