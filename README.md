@@ -70,5 +70,5 @@ This project use the most popular approach of the Cross-Industry Standard Proces
 6.Communication/Deployment
 
 ## Model efficiency
-Overall accuracy of prediction is ~70%
-This project is done within 4 months, and there are still rooms for improvement.
+- Overall accuracy of prediction is ~70%
+- This project is done within 3 months, and there are still rooms for improvement.
