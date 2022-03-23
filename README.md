@@ -50,10 +50,9 @@ XGBoost is chosen in this project because of some important characteristics (Che
   - Behavioral data related to historical payments
   
 ## Demo video
-- Deplowment of Dash web app:
+- Deployment of Dash web app:
 https://youtu.be/jhyVX7xmxlE
-
-![app](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/video.png)
+[![Watch the video](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/video.png)](https://youtu.be/jhyVX7xmxlE)
 
 ## Project roadmap
 This project use the most popular approach of the Cross-Industry Standard Process for Data Mining (CRISP-DM), (Wirth et al.,2000, p.6). The framework as below:
