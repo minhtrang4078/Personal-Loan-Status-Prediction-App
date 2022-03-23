@@ -71,3 +71,4 @@ This project use the most popular approach of the Cross-Industry Standard Proces
 
 ## Model efficiency
 Overall accuracy of prediction is ~70%
+This project is done within 4 months, and there are still rooms for improvement.
