@@ -1,7 +1,7 @@
 # Personal Loan Status Prediction App
 
 First look of the app
-![app](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/app.png)
+![app 1st](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/app_1st_look.png)
 
 ## Contents
 
