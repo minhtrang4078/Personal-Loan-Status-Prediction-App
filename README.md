@@ -14,6 +14,7 @@ First look of the app
   - [Model efficiency](#model-efficiency)
 
 ## Short description
+* The jupyter notebook includes detailed comments showing how things works together.
 
 ### Problem statement
 LendingClub company provides P2P lending, which becomes more and more popular. Investors are responsible for their own decision on lending. Even though the company has fitter borrowers who meet the minimum requirements, there is still a huge risk of non-repayment. This is the problem that this project works on by making the prediction of loan status for these people.
