@@ -55,7 +55,7 @@ XGBoost is chosen in this project because of some important characteristics (Che
 https://youtu.be/jhyVX7xmxlE
 [![Watch the video](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/video.png)](https://youtu.be/jhyVX7xmxlE)
 
-## Project roadmap
+## Project roadmap - ![Slides](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/f64f8d6d26565b637b77d8484f256a9c3eb98c59/Project%20Presentation.pdf)
 This project use the most popular approach of the Cross-Industry Standard Process for Data Mining (CRISP-DM), (Wirth et al.,2000, p.6). The framework as below:
 
 1.Problem statement/Business understanding
